@@ -11,6 +11,7 @@ class SharethisComponent extends Component {
       errorMessage: `No data to show`,
       style: {
         fontSize: 42 + `px`,
+        color: `#25a186`,
       },
     };
   }
